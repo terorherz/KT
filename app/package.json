@@ -1,0 +1,29 @@
+{
+  "name": "hherz",
+  "version": "0.0.1",
+  "description": "Karslı Development Gelişmiş Guard Botu",
+  "main": "zyronxguard.js",
+  "scripts": {
+    "start": "node zyronxguard.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4",
+    "common-tags": "^1.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/discordjs-version12"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Trix Guard"
+  ]
+}
